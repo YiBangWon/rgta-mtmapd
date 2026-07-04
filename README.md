@@ -189,7 +189,7 @@ publication.
 
 ## Authors
 
-- Hansol Son
-- Soobin Yoon
+- Hansol Son ([YiBangWon](https://github.com/YiBangWon))
+- Soobin Yoon ([yoonsoobinie](https://github.com/yoonsoobinie))
 
 For questions, please contact Hansol Son.
