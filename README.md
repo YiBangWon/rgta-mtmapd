@@ -1,5 +1,7 @@
 # Online Task-Group Assignment with Regret-Guided Selection for MT-MAPD
 
+[![DOI](https://zenodo.org/badge/1289317741.svg)](https://zenodo.org/badge/latestdoi/1289317741)
+
 > Code and experimental results for the paper "Online Task-Group Assignment
 > with Regret-Guided Selection for Multi-Task Multi-Agent Pickup and Delivery"
 > (under review).
