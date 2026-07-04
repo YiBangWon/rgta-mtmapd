@@ -22,14 +22,15 @@ fleet-management modules and `fms_*` packages are not part of this repository.
 
 ```text
 rgta-mtmapd/
-├── rgta/            # MT-MAPD simulator, maps, allocators, and TSP utilities
-├── experiments/     # Reproduction entry points
-├── tests/           # Core smoke/unit tests
-├── results/         # CSV results used for the paper tables
-│   └── ablation/    # Ablation and sensitivity CSV files
-├── README.md
-├── LICENSE
-└── .gitignore
++-- rgta/            # MT-MAPD simulator, maps, allocators, and TSP utilities
++-- experiments/     # Reproduction entry points
++-- tests/           # Core smoke/unit tests
++-- results/         # CSV results used for the paper tables
+|   +-- ablation/    # Ablation and sensitivity CSV files
++-- README.md
++-- LICENSE
++-- CITATION.cff
++-- .gitignore
 ```
 
 ## Requirements

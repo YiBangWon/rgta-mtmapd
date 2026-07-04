@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "Online Task-Group Assignment with Regret-Guided Selection for Multi-Task Multi-Agent Pickup and Delivery"
+authors:
+  - family-names: Son
+    given-names: Hansol
+  - family-names: Yoon
+    given-names: Soobin
+repository-code: "https://github.com/YiBangWon/rgta-mtmapd"
+url: "https://github.com/YiBangWon/rgta-mtmapd"
+abstract: "Reproduction code and experimental results for online task-group assignment with regret-guided selection for multi-task multi-agent pickup and delivery."
+keywords:
+  - multi-agent systems
+  - task allocation
+  - MAPD
+  - multi-agent path finding
+  - warehouse automation
+  - robotics
+  - TSP
+license: MIT
+version: "1.0.0"
+date-released: "2026-07-05"
