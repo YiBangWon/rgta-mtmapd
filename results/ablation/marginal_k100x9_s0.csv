@@ -1,0 +1,2 @@
+method,map_name,num_agents,capacity,seed,completed_tasks,average_service_time,makespan,allocation_runtime_ms,allocation_runtime_ms_per_event,allocation_runtime_ms_per_step,generated_groups,assigned_tasks
+marginal,kiva,100,9,0,2600,465.39111428374684,2491.9566025519966,10751.22626090888,53.4886878652183,4.312565688290766,1000,2600
