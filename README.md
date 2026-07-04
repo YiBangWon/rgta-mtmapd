@@ -1,5 +1,9 @@
 # Online Task-Group Assignment with Regret-Guided Selection for MT-MAPD
 
+> Code and experimental results for the paper "Online Task-Group Assignment
+> with Regret-Guided Selection for Multi-Task Multi-Agent Pickup and Delivery"
+> (under review).
+
 This repository contains the code and experimental results for the paper
 "Online Task-Group Assignment with Regret-Guided Selection for Multi-Task
 Multi-Agent Pickup and Delivery" (under review).
